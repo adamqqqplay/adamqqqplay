@@ -1,9 +1,11 @@
 ### Hi there 👋
-I'm adamqqq, interested in Game AI and Distributed Storage System.
+I'm AdamQQQ, interested in Storage System, Serverless Computing and Game AI.
 
-- 🌱 I’m currently learning: Rust, C++
-- 👯 I’m looking to collaborate on: [Dota2 RMM AI Project](https://github.com/adamqqqplay/dota2ai)
-- 📫 How to reach me: adamqqq@163.com
+- 🌱 Most used languages: Go, Rust, C++, Lua
+- 🔭 I’m currently working on: [Nydus image service](https://github.com/dragonflyoss/image-service) and [Dota2 RMM AI](https://github.com/adamqqqplay/dota2ai)
+- 📫 How to reach me: adamqqq@163.com (email), https://www.adamqqq.com (blog)
+- 😄 My hobby: Badminton, PC gaming, Reading, Photography and so on.
+- ⚡ Fun fact: Wanted to be a computer scientist as a kid, but now a software engineer.
 
 [![adamqqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamqqqplay&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
